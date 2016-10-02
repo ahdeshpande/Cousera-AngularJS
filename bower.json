@@ -1,0 +1,26 @@
+{
+  "name": "Cousera-AngularJS",
+  "homepage": "https://github.com/ahdeshpande/Cousera-AngularJS",
+  "authors": [
+    "ahdeshpande <deshpande.abhiraj@gmail.com>"
+  ],
+  "description": "Course AngulasJS work",
+  "main": "",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.3.5",
+    "font-awesome": "~4.4.0",
+    "angular": "~1.4.7",
+    "angular-route": "~1.4.8",
+    "angular-ui-router": "~0.2.15",
+    "angular-resource": "~1.4.8"
+  }
+}
